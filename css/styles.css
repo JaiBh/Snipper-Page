@@ -206,6 +206,7 @@ About
     .about-container{
         grid-template-columns: 1fr 432px;
         gap: 5rem;
+        align-items: center;
     }
     .about-info{
         order: 1;
